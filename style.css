@@ -1,0 +1,119 @@
+body{
+  background: linear-gradient(120deg, black, #614f4f);
+}
+.img {
+    margin-left: 65%;
+    height: 80vh;
+    width: 90vh;
+    display: flex;
+    transform: translateY(13px);
+}
+.Logo, .Top_menu{
+  transform: translateX(60px);
+  margin-right: 70px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.Top_menu li{
+  margin-right: 60px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.Top_menu a{
+  font-family: Montserrat;
+  font-size: 20px;
+  color: azure;
+  text-decoration: none;
+  vertical-align: middle;
+}
+.Top_menu a:hover{
+  color: aqua;
+}
+.Logo h1{
+  font-family: Montserrat;
+  font-size: 35px;
+  vertical-align: middle;
+  color: azure;
+}
+.vertical-line{
+  width: 8px;
+  height: 70px;
+  rotate: 135deg;
+  margin-left: -500px;
+  background-color: azure;
+}
+.vertical-line1{
+  width: 8px;
+  height: 70px;
+  rotate: 45deg;
+  margin-left: -7px;
+  background-color: azure;
+}
+.text{
+  transform: translateY(100px);
+  transform: translateX(-800px);
+  text-align: left;
+}
+.circle{
+  height: 100px;
+  width: 1400px;
+  border-radius: 20px;
+  background-color: #000000;
+  border: 2px;
+}
+.vertical-line2{
+  width: 3px;
+  height: 170px;
+  margin-left: -1370px;
+  margin-bottom: 100px;
+  background-color: azure;
+}
+.text1{
+  transform: translateY(100px);
+  transform: translateX(100px);
+  text-align: center;
+}
+.circle2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px #ddd;
+}
+.img1{
+  background: linear-gradient(120deg, black, #614f4f);
+}
+.text2{
+  transform: translateY(-500px);
+  display: flex;
+}
+.img2{
+  display: flex;
+  transform: translateX(-130px);
+}
+.text3{
+  text-align: center;
+}
+.text4{
+  margin-left: 700px;
+}
+.img3{
+  display: flex;
+}
+.img4{
+  display: flex;
+}
+.center {
+  text-align: center;
+}
+.img5{
+  display: flex;
+}
+.img6{
+  display: flex;
+}
+.img7{
+  display: flex;
+}
+.right {
+  text-align: left;
+}
